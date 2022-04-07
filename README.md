@@ -5,12 +5,12 @@
 <br>
 <br>
 
-<div id="stats">
+<div id="stats" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ozervesh&theme=dracula" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ozervesh&theme=dracula" height="230"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozervesh&layout=compact&theme=dracula" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozervesh&layout=compact&theme=dracula" height="190"/>
   </a>
 </div>
 
