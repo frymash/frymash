@@ -6,7 +6,7 @@
 
 <div id="intro">
   <h1><code>hey there, i'm isaac 👉😎👉</code></h1>
-  <p>I've just completed my National Service and will be matriculating into university in 2023 (no prizes for guessing which major).</p>
+  <p>I've just completed my National Service and will be matriculating into university in 2023 (no prizes for guessing what I'll be majoring in).</p>
   <p>In the meantime, I've been working on a few MOOCs to tide the time. As of now, a large chunk of my GitHub's content consists of the work I've done for these courses.</p>
 </div>
 
@@ -51,4 +51,4 @@
 <br>
 <br>
 
-<h3>If you found my profile because you're looking for code related to OSSU's courses, feel free to have a look at the pinned repos below. Hope they help.</h3>
+<h3>If you found my profile because you're looking for code related to OSSU's courses, feel free to have a look at the pinned repos below. Hope you can find whatever you were looking for there.</h3>
