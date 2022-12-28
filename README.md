@@ -26,12 +26,6 @@
     <li><a href="https://www.github.com/ossu/computer-science">OSSU's Computer Science program</a> -- I'm at <a href="https://www.coursera.org/learn/programming-languages-part-c">University of Washington's Programming Languages Part C</a> (covers OOP with the help of Ruby!) right now. I'll be starting on <a href="https://www.coursera.org/learn/machine-learning">deeplearning.ai's Machine Learning Specialisation</a> too as well.</li>
     <li><a href="https://theacadlabel.com">Helping out with the Academic Label's 1st mentorship programme</a></li>
     <li>SJI's Kin-Ball CAS! Great stuff.</li>
-    <li>Trying to find a job because...</li>
-    <ol>
-      <li>I have a ton of time on my hands till uni starts</li>
-      <li>I really want to learn something new while getting working experience</li>
-      <li>....I'm broke 💀💀💀</li>
-    </ol>
   </ul>
 </div>
 
