@@ -4,14 +4,6 @@
 
 <br>
 
-<div id="intro">
-  <h1><code>hey there, i'm isaac 👉😎👉</code></h1>
-  <p>I've just completed my National Service and will be matriculating into university in 2023 (no prizes for guessing what I'll be majoring in).</p>
-  <p>In the meantime, I've been working on a few MOOCs to tide the time. As of now, a large chunk of my GitHub's content consists of the work I've done for these courses.</p>
-</div>
-
-<br>
-
 <div id="main_content">
   <h3>Here's a quick rundown of some of my favourite projects:</h3>
   <ul>
@@ -23,7 +15,7 @@
   
   <h3>...and here are the little things I'm working on/helping out with now:</h3>
   <ul>
-    <li><a href="https://www.github.com/ossu/computer-science">OSSU's Computer Science program</a> -- I'm at <a href="https://www.coursera.org/learn/programming-languages-part-c">University of Washington's Programming Languages Part C</a> (covers OOP with the help of Ruby!) right now. I hope to start on <a href="https://www.coursera.org/learn/machine-learning">deeplearning.ai's Machine Learning Specialisation</a> following my relief teaching stint at St. Joseph's Institution (SJI).</li>
+    <li><a href="https://www.github.com/ossu/computer-science">OSSU's Computer Science program</a> -- I'm at <a href="https://www.coursera.org/learn/programming-languages-part-c">University of Washington's Programming Languages Part C</a> (covers OOP with the help of Ruby!) right now. I hope to start on <a href="https://www.coursera.org/learn/machine-learning">deeplearning.ai's Machine Learning Specialisation</a></li>
     <li><a href="https://theacadlabel.com">Helping out with the Academic Label's 1st mentorship programme</a></li>
   </ul>
 </div>
@@ -33,9 +25,6 @@
 <br>
 
 <div id="stats" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ozervesh&theme=dark" height="190"/>
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozervesh&layout=compact&theme=dark" height="190"/>
   </a>
