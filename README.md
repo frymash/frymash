@@ -7,8 +7,8 @@
 <div id="main_content">
   <h3>Here's a quick rundown of some of my favourite projects:</h3>
   <ul>
-    <li><a href="https://github.com/ozervesh/UW-Programming-Languages/blob/main/Homeworks/Homework%205/hw5.rkt">Building an interpreter for a "made-up programming language"</a></li>
-    <li><a href="https://github.com/ozervesh/UBCx-HtCx/blob/master/Final%20Projects/Space%20Invaders%20(HtC1x)/space-invaders-without-function-templates.rkt">A space invaders-like game in Racket</a></li>
+    <li><a href="https://github.com/frymash/UW-Programming-Languages/blob/main/Homeworks/Homework%205/hw5.rkt">Building an interpreter for a "made-up programming language"</a></li>
+    <li><a href="https://github.com/frymash/UBCx-HtCx/blob/master/Final%20Projects/Space%20Invaders%20(HtC1x)/space-invaders-without-function-templates.rkt">A space invaders-like game in Racket</a></li>
   </ul>
   
   <br>
@@ -26,7 +26,7 @@
 
 <div id="stats" align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozervesh&layout=compact&theme=dark" height="190"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frymash&layout=compact&theme=dark" height="190"/>
   </a>
 </div>
 
