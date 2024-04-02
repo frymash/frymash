@@ -33,4 +33,4 @@
 <br>
 <br>
 
-<h3>If you found my profile because you're looking for code related to OSSU's courses, feel free to have a look at the pinned repos below. Hope you can find whatever you were looking for there.</h3>
+<h3>If you found my profile because you're looking for code related to OSSU's courses, have a look at the repos pinned below. </h3>
