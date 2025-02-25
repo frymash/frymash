@@ -6,10 +6,16 @@
 I'm a Y2 Computer Science student at the National University of Singapore (NUS).
 <br>
 <div id="main_content">
-  <h3>Here's a quick rundown of some of my favourite projects I've worked on (most certainly not the best ones! But the ones I like):</h3>
+  <h3>Here's a quick rundown of some of my favourite projects I've worked on (for fun):</h3>
   <ul>
     <li><a href="https://github.com/frymash/UW-Programming-Languages/blob/main/Homeworks/Homework%205/hw5.rkt">Building an interpreter for a "made-up programming language"</a></li>
     <li><a href="https://github.com/frymash/UBCx-HtCx/blob/master/Final%20Projects/Space%20Invaders%20(HtC1x)/space-invaders-without-function-templates.rkt">A space invaders-like game in Racket</a></li>
+  </ul>
+
+  <h3>...and here are some projects I've worked on in a slightly more formal setting:</h3>
+  <ul>
+    <li><a href="https://github.com/Garuda-Techs/AnM-Bot">A Telegram bot for CAPT Garuda's Angel & Mortal event that allowed 40+ pairs of participants to anonymously communicate"</a></li>
+    <li>(In the works!) Multi-purpose email purger that helps people clear subscription emails and unsubs to those pesky mailing lists.</a></li>
   </ul>
   
   <br>
@@ -17,7 +23,7 @@ I'm a Y2 Computer Science student at the National University of Singapore (NUS).
   <h3>...and here are the little things I'm working on/helping out with now:</h3>
   <ul>
     <li><a href="https://github.com/Garuda-techs">Supervising CAPT Garuda's tech team as the House Head of Garuda (a neighbourhood of 120 wonderful souls packed into 3 floors).</a></li>
-    <li><a href="https://kaggle.com/learn">Trying to pick up machine learning basics on Kaggle.</a> (and I'm dabbling in Andrew Ng's Machine Learning specialisation on Coursera as well)</li>
+    <li>Working on Fullstack Open!</li>
   </ul>
 </div>
 
