@@ -3,7 +3,7 @@
 </div>
 
 # <code>hey there, i'm isaac!</code>
-I’m a Y2 Computer Science student at NUS. I’m particularly interested in integrating uses of technology in the community/daily life, applications of AI in social services, and computing in education/science/sports. I'm looking for intern/research roles that involve really interesting solutions to problems people encounter, be they from the topics listed above or otherwise.
+I’m a Y2 Computer Science student at the National University of Singapore (NUS). I’m particularly interested in integrating uses of technology in the community/daily life, applications of AI in social services, and computing in education/science/sports. I'm looking for intern/research roles that involve really interesting solutions to problems people encounter, be they from the topics listed above or otherwise.
 <br>
 <div id="main_content">
   <h3>Here's a quick rundown of some of my favourite projects I've worked on (for fun):</h3>
