@@ -3,41 +3,14 @@
 </div>
 
 # <code>hey there, i'm isaac!</code>
-I’m a Y3 Computer Science and Social Work student at the National University of Singapore (NUS). I’m particularly interested in integrating uses of technology in the community/daily life, applications of AI in social services, and computing in education/science/sports. I'm looking for intern/research roles that involve really interesting solutions to problems people encounter, be they from the topics listed above or otherwise.
-<br>
-<div id="main_content">
-  <h3>Here's a quick rundown of some of my favourite projects I've worked on (for fun):</h3>
-  <ul>
-    <li><a href="https://github.com/frymash/UW-Programming-Languages/blob/main/Homeworks/Homework%205/hw5.rkt">Building an interpreter for a "made-up programming language"</a></li>
-    <li><a href="https://github.com/frymash/UBCx-HtCx/blob/master/Final%20Projects/Space%20Invaders%20(HtC1x)/space-invaders-without-function-templates.rkt">A space invaders-like game in Racket</a></li>
-  </ul>
+I’m a final-year Computer Science and Social Work student at the National University of Singapore (NUS). 
 
-  <h3>...and here are some projects I've worked on in a slightly more formal setting:</h3>
-  <ul>
-    <li><a href="https://github.com/Garuda-Techs/AnM-Bot">A Telegram bot for CAPT Garuda's Angel & Mortal event that allowed 40+ pairs of participants to anonymously communicate"</a></li>
-    <li>(In the works!) Multi-purpose email purger that helps people clear subscription emails and unsubs to those pesky mailing lists.</a></li>
-  </ul>
-  
-  <br>
-  
-  <h3>...and here are the little things I was working on/helping out with in recent times:</h3>
-  <ul>
-    <li><a href="https://github.com/Garuda-techs">Supervising CAPT Garuda's tech team as the House Head of Garuda (a neighbourhood of 120 wonderful souls packed into 3 floors).</a></li>
-    <li>Working on Fullstack Open!</li>
-  </ul>
-</div>
+I’m particularly interested in building + supporting sustainable solutions to problems that communities or public-benefit agencies face. "Building" here can refer to any part of the development process from needfinding to testing and maintenance. On the other hand, "supporting" can mean lending a helping hand to those who encounter issues while interfacing with solutions, or advocating for solutions that are both useful and effective.
 
+Some examples of my past work include:
+* Early-stage development and feasibility assessments for an anti-gender-based violence (GBV) AI-powered chatbot in Bosnia and Herzegovina for the United Nations Population Fund (UNFPA).
+* Working with the social work technologist in SHINE Children and Youth Services to integrate technology into manual, time-consuming aspects of social workers' workflows.
+* Enhancing Central Provident Fund (CPF) contribution crediting systems at CPF Board.
 
-<br>
-<br>
-
-<div id="stats" align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frymash&layout=compact&theme=dark" height="190"/>
-  </a>
-</div>
-
-<br>
-<br>
 
 <h3>If you found my profile because you're looking for code related to OSSU's courses, have a look at the repos pinned below. </h3>
